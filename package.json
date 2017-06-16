@@ -71,7 +71,8 @@
     "shelljs": "^0.7.7"
   },
   "engines": {
-    "npm": "<5.0.0"
+    "npm": "5.0.3",
+    "node": "8.0.0"
   },
   "collective": {
     "type": "opencollective",
